@@ -5,7 +5,7 @@
 This is an updated hackathon project with added iOS development instead of android. Click [here](https://github.com/ShushawnS/hy-bird) for the original project!
 
 <hr>
-## Hackathon Description
+# Hackathon Description
 
 🐤 **What is it?**
 
